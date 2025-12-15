@@ -1,6 +1,5 @@
 class Endpoints {
-  static const String baseUrl =
-      'https://flower.elevateegy.com/api';
+  static const String baseUrl = 'BASE_URL';
   static const String apply = '/v1/drivers/apply';
   static const String forgetPassword =
       '/v1/drivers/forgotPassword';

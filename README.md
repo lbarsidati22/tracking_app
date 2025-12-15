@@ -1,12 +1,9 @@
 # Tracking App 🚚
 
+![Tracking App](assets/image/tracking_app.png)
+
 A comprehensive Flutter application for tracking orders and managing deliveries. This app provides a seamless experience for users to track their shipments in real-time, manage orders, and update their profile.
 
-## 📸 Screenshots
-
-| Onboarding | Login | Home | Order Details |
-|:---:|:---:|:---:|:---:|
-| <img src="Screenshot_20250928_204541.png" width="200" /> | <img src="Screenshot_20251014_182419.png" width="200" /> | <img src="Screenshot_20250928_204557.png" width="200" /> | <img src="Screenshot_20250928_204614.png" width="200" /> |
 
 ## ✨ Features
 
